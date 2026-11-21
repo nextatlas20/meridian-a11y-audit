@@ -1,0 +1,12 @@
+# Meridian Console - accessibility audit ownership
+# GitHub CODEOWNERS semantics apply: the last matching pattern wins.
+# A record with no dedicated line falls back to the guild team below.
+
+*                               @meridian/a11y-guild
+
+/audit/checkout-flow.md         @priya.raman
+/audit/account-settings.md      @tomas.berg
+/audit/admin-roles.md           @priya.raman
+/audit/report-builder.md        @noor.haddad
+/audit/notification-center.md   @tomas.berg
+/audit/help-search.md           @noor.haddad
